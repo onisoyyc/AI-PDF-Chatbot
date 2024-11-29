@@ -1,0 +1,7 @@
+# install 1 by 1 with pipx
+
+langchain
+langchain-community
+streamlit
+chromadb
+pypdf
